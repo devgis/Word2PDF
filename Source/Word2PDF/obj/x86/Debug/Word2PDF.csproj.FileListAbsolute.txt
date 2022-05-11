@@ -1,0 +1,9 @@
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\bin\Debug\Word2PDF.exe
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\bin\Debug\Word2PDF.pdb
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\obj\x86\Debug\Word2PDF.Form1.resources
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\obj\x86\Debug\Word2PDF.Properties.Resources.resources
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\obj\x86\Debug\Word2PDF.exe
+c:\documents and settings\liyf.lns\my documents\visual studio 2010\Projects\Word2PDF\Word2PDF\obj\x86\Debug\Word2PDF.pdb
